@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# a script that display all listening portes with only linstening ones, and the name of the programm
+netstat -lp

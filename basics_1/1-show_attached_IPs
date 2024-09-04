@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# a script that shows us the active ips
+hostname -I
